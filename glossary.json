@@ -1,0 +1,14 @@
+[
+  {
+    "term": "Vector Database",
+    "definition": "A vector database stores and retrieves vector embeddings for similarity search."
+  },
+  {
+    "term": "RAG",
+    "definition": "Retrieval-Augmented Generation combines search with language models for accurate generation."
+  },
+  {
+    "term": "Tokenization",
+    "definition": "The process of breaking text into smaller units for processing by a language model."
+  }
+]
